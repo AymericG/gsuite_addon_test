@@ -1,0 +1,7 @@
+**/**
+!*.gs
+!*.js
+!*.html
+!*.json
+!.claspignore
+!.gitignore
